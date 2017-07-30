@@ -1,0 +1,397 @@
+100% route notes
+
+warp healer glitch
+
+hammer
+- hammer as in any%
+- except get guy to the left in hammer cave or guy in cave before hammer cave and octarocks?
+- have 3-1-2
+- up-a
+
+
+TJMM
+- trophy as any%
+- jump as any%
+- medicine jar as any%
+- skip fairy/downstab
+- magic jar as any%
+- up-a
+
+other scroll lock glitch
+- 1,2,1,1,1 (opposed to 1,1,1,1,1 in any%)
+
+SHFDLM (wee)
+shield:
+- back into town
+- exit left
+- scroll to woman leaving house after fake town end
+- go in get shield
+- exit house
+- exit leftx2 out of town
+
+heart container:
+- go to boulder block cave southeast of town
+- go right to heart container
+- exit leftx2 out of cave
+
+fairy:
+- go to fairy/downstab town
+- go left twice
+- walk right to woman leaving house, go in get fairy
+- exit house left
+
+downstab:
+- go right
+- refil magic
+- cast jump, jump to downstab door
+- exit house left
+- go right to exit
+
+life:
+- enter first door (hold up+right)
+- exit house left
+- scroll right, exit left
+- will be at bagu's house, go right one down to path
+- go left at far bridge
+- to bridge town
+- exit left
+- enter mirror door (second open door)
+- get mirror
+- exit house left
+- exit right
+- go right until woman comes out of door, go in house get life
+- exit house left
+- exit left
+- scroll right exit left
+- should be on other side of town
+
+magic jar:
+- standard dark death mountain
+- down jar hole
+- exit left
+
+Maze
+boots:
+- right into encounter (try fairy feet)
+- go long way to northwest corner and around to palace
+
+- enter palace go in to right down elevator
+- go right to elevator
+- down elevator
+- jump over stalfos with downstab
+- jump right just before visible disappearing block into pit
+- go right past bubble and doomknocker
+- fairy magic pixel or rapid downstab past ironknuckle
+- get boots
+
+kid:
+- fairy around stalfos'
+- exit, go down and left to collect kid in right of cave -- do not kill lizalfos in cave!
+
+magic jar:
+- go west to magic jar (same as any%)
+- exit maze to west
+
+Bolero of Fire
+flute: (18:45)
+- get one up
+- go across water to south to go to flute palace
+- enter palace down elevator
+- exit right
+- prep fairy
+- cast fairy to go up shaft
+- exit right
+- get pbag, level magic (not optional)
+- exit right
+- scroll right exit left
+- exit left x2
+- elevator scroll
+- exit left
+- fairy through key door to right
+- take elevator down 1 level
+- go right (downstab over ironknuckle) to secret passage and exit right
+- scroll right exit left
+- exit left (do not scroll right!)
+- get flute
+- scroll right exit left
+- exit palace
+
+heart container:
+- go west then north then east again to get heart container
+- exit left (warps to near river monster)
+
+fire:
+- go north to town enter
+- exit left
+- scroll right to second fountain (lol) get water
+- scroll right to woman leaving house, enter get fire
+- exit house left
+- exit right
+- refill magic
+- exit town right
+
+reflect:
+- go into cave to the north
+- go right, careful to avoid fire bats
+- go northwest out of cave to desert area
+- first forced encounter jump over gap under cloud
+- second forced encounter "
+- go to town
+- exit left x2
+- scroll right to old lady
+- enter and get reflect
+- exit house left
+- exit right
+
+upstab:
+- cast jump
+- jump on rooftops to chimney and drop in
+- get upstab
+- exit house left
+- exit right
+- get magic refill
+- exit town right
+
+Hidden Town
+magic jar:
+- go through forced encounters, try to skip with ow encounters
+- go through south cave
+- scroll right exit left (this is like any% getting to grind)
+- there's a 1-up in the north west of swamp (!)
+- go into cave north of grind area
+- go right (maybe with fairy) x2
+- exit near hidden town
+- expose hidden town
+- enter hidden town
+- scroll right to old woman exiting house
+- enter house get magic jar
+- exit house left
+
+spell spell:
+- go right
+- IF NECESSARY go right to refill on magic/heath then back to
+- enter house open door right of magic jar house
+- exit left
+- cast fairy (or shield?) as soon as exit, go up and right (avoiding moas)
+- exit right
+- enter first door
+- exit left
+(note: switched to pres' run here due to softlock in squibbons')
+- go right to second open door and enter (maybe cast shield?)
+- get spell
+- exit house left
+- exit left
+
+any key:
+- (back in normal town) exit right
+- re-enter hidden town
+- go right
+- refill magic (and life via magic) if needed
+- prep spell spell
+- go right to weird tall hut screen
+- cast spell spell
+- go into weird tall hut
+- get any key
+- exit house left
+- exit weird hut screen left
+
+heart container:
+- exit town right
+- enter cave, exit cave left
+- go south east of grind area for heart container along coast
+
+(squibbons in new run grinds to 4-3-3 here?)
+
+thunder spell:
+- go west to bbridge, jump over hole at cloud
+- go to town
+- cast shield?
+- go into first door to right and exit
+- go into second door to right
+- get thunder
+- exit house left
+
+(switched back to squibbons' here)
+Palace 2:
+glove:
+- up+a
+- go to swamp palace
+- down elevator
+- go left to elevator (kill large enemies and get magic jar from wall head if needed)
+- down elevator
+- go left to glove (kill ironknuckles, don't take levels, remember you don't have glove first time through falling blocks)
+- get glove
+- go right to elevator
+- down elevator
+- exit right (fight ironknuckles)
+- exit right through turret bullshit (don't fight stalfos?)
+- down elevator
+- go right
+- fight fozzy the hammer bro
+- exit right
+- get trap pbag
+- go right fighting ironknuckles to boss room
+- slam him in the head a bunch
+- place gem
+- squibbons takes attack but that's "bad" (4-2-2)
+(I think you were supposed to get another attack before this so it's the right thing, but you should be 5-2-2 here maybe?)
+(squibbons is 5-3-3 in new run)
+
+Palace 1:
+- up-a
+- go to palace 1
+- down elevator
+- go right to elevator
+- go down
+- do jiggly thing for spawn positions
+- go left to candle (get pbag, fight enemies)
+- go right to elevator (and up)
+- go right to elevator (and down)
+- go right to boss (fight things)
+- fight horshead, you know how
+- place gem
+- take attack? (5-2-2)
+- go to heart container on coast
+
+palace 3:
+- up-a
+- go to south of grave fall
+- cast fairy and go right as you fall
+- go right ignore goriya
+- enter palace
+- get jar maybe
+- down elevator
+- go right (skip enemies) elevator
+- down elevator
+- go right (fight enemies, don't take level ups) to raft
+- go left to second elevator
+- down elevator
+- go right (skip enemies except maybe doomnknocker?) to boss (middle path)
+- stand on sixth brick gap from right, downstab jump when boss comes by, downstab on him on left edge of screen after he sits there. Should kill him. Otherwise problems.
+- place gem
+- take attack (6-2-2)
+
+palace 5:
+- up+a
+- go to harbour town area
+- take raft spot
+- go to town area south east
+- follow road out of town into water
+- into palace 5
+- down elevator
+- go right to ledge, cast fairy, up ledge
+- go right (fight ironknuckles) take life? (6-2-3) to elevator
+- down elevator
+- go left (fight ironknuckles get jar) to elevator
+- down elevator
+(squibbons takes detour and winds up 6-3-3 here - takes magic.)
+- go left to second elevator (magic jar in horsehead just before)
+- go up elevator
+- go right (fight ironknuckles) to boss
+- safe strats: jump into him, attack, jump back, after each ball shot
+- place gem take life, magic, magic, life (6-5-6) -- apparently should be (7-5-7)
+- up+a
+
+glitch (12111)
+
+palace 4:
+- across raft
+- into water east of town then north to other shore
+- to bridge to maze
+- go to palace 4 via water
+- into palace 4, red jar? at entrance if necessary (rpobably not)
+- sr,el
+- el
+- sr,el
+- el
+- down elevator
+- go right to boss
+- cast all the things (reflect and shield)
+- sit in corner and wait
+- place gem take ?? (took life in new run 6,5,6)
+
+palace 6:
+- exit maze island go to south cave
+- scroll right exit left
+- go to 3 rock thingy do flute thingy
+- enter palace 6
+- down elevator 2 levels
+- go right (jump over pits, first hidden, second legit - if you fall down go ALL THE WAY DOWN) to big open room after elevator after gauntlet room
+- cast jump, jump after third 'real' statue (ignore despawned one on entry)
+- go right to miniboss (horse riding dood, sixth gap from right again)
+- go right to cross
+- exit palace left
+- re-enter get magic jar
+- down elevator 2 levels
+- go right to pit, fall in
+- jump right from disappearing blocks (try for ceiling walk?)
+- go right to evil room, use pause menu to see true pits
+- go right, fairy in room with big pit to right
+- go right to rebo fight (same as above, sixth gap from right)
+- go right fall down pit
+- cast fairy while falling to go into wall gap to right
+- go right to boss (careful of pits)
+- cast all the protection
+- ignore on left, fight on right
+- place gem, take attack (7-5-6)
+
+grand palace:
+- go to north bridge
+- jump over hole at cloud
+- north to swamp cave
+- sr, el
+- go right to exit
+- enter grand palace.
+
+(this is a lot like any% now but different glitch)
+- sr, el
+- el
+- sr, el
+- go right through boring rooms
+- jump through bird that spawns left in any%
+- horshead room just like any% but you can get hit
+- terminator chicken room is harder because spawns right. Dodge until it goes left and then go under? otherwise same
+- fairy right
+- go right to elevator
+- down elevator
+- blue chicken room same but probably easier
+- go right PIT IS IN RIGHT PLACE IN THIS GLITCH
+- down elevator
+- fairy right as usual
+- terminator chicken room as above, but crouch on first step to avoid skull bubble that usually spawns left
+- down elevator
+- death abuse
+- exit left x2
+- down hidden pit
+- rest is same as any%
+
+
+!!!!! this is where squibbons' run leaves off when she softlocks after getting spellspell. Might be worth looking at where it reconciles with pres'
+
+??? spell:
+- I think this takes you out of town? If so this is what I think you do:
+- go right, do spell spell on tower tower and get ???? ???? spell spell
+- exit house left
+- exit town
+
+optional???:
+- re-enter town
+- go right
+- refill magic
+- exit town left
+
+heart container:
+- go through cave
+- exit left x2
+- go southeast of grind area and get heart container from coast
+
+thunder:
+- go west across bridge to town (fairy across?)
+- enter town
+- go right
+- enter door at some point??? (see video 37:04)
+- get thunder
+
+P2 (38:12)
+- up+a
+- go to swamp palace
