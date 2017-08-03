@@ -20,7 +20,7 @@ TJMM
 other scroll lock glitch
 - 1,2,1,1,1 (opposed to 1,1,1,1,1 in any%)
 
-SHFDLM (wee)
+SHFGDLM (wee)
 shield:
 - back into town
 - exit left
@@ -33,6 +33,9 @@ heart container:
 - go to boulder block cave southeast of town
 - go right to heart container
 - exit leftx2 out of cave
+
+glove:
+- get glove from P2 as in any%
 
 fairy:
 - go to fairy/downstab town
@@ -75,7 +78,7 @@ boots:
 - right into encounter (try fairy feet)
 - go long way to northwest corner and around to palace
 
-- enter palace go in to right down elevator
+- enter palace 4 go in to right down elevator
 - go right to elevator
 - down elevator
 - jump over stalfos with downstab
@@ -84,8 +87,29 @@ boots:
 - fairy magic pixel or rapid downstab past ironknuckle
 - get boots
 
-kid:
+raft:
 - fairy around stalfos'
+- exit dungeon left
+(you are now in P3)
+- refill magic if possible
+- go down entry elevator
+- go right (skip key) to elevator
+- down elevator
+- go right through awful pit room (fairy key door, use start menu to fix glitches as you go, get key) to raft
+- exit dungeon left
+
+P3 boss:
+- go down entry elevator
+- go right (get key) to block stair room
+- sr,el
+- exit left x2
+- go right to elevator
+- down elevator
+- go right (middle path) to boss
+- beat boss, place gem, take atk?
+- exit left (maybe not necessary? Concerned exiting right takes you to p3 exit)
+
+kid:
 - exit, go down and left to collect kid in right of cave -- do not kill lizalfos in cave!
 
 magic jar:
@@ -252,24 +276,6 @@ Palace 1:
 - place gem
 - take attack? (5-2-2)
 - go to heart container on coast
-
-palace 3:
-- up-a
-- go to south of grave fall
-- cast fairy and go right as you fall
-- go right ignore goriya
-- enter palace
-- get jar maybe
-- down elevator
-- go right (skip enemies) elevator
-- down elevator
-- go right (fight enemies, don't take level ups) to raft
-- go left to second elevator
-- down elevator
-- go right (skip enemies except maybe doomnknocker?) to boss (middle path)
-- stand on sixth brick gap from right, downstab jump when boss comes by, downstab on him on left edge of screen after he sits there. Should kill him. Otherwise problems.
-- place gem
-- take attack (6-2-2)
 
 palace 5:
 - up+a
