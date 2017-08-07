@@ -240,13 +240,9 @@ Palace 2:
 glove:
 - up+a
 - go to swamp palace
-- down elevator
+- down elevator 1 floor
 - go left to elevator (kill large enemies and get magic jar from wall head if needed)
-- down elevator
-- go left to glove (kill ironknuckles, don't take levels, remember you don't have glove first time through falling blocks)
-- get glove
-- go right to elevator
-- down elevator
+- down elevator 2 floors
 - exit right (fight ironknuckles)
 - exit right through turret bullshit (don't fight stalfos?)
 - down elevator
