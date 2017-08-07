@@ -98,17 +98,6 @@ raft:
 - go right through awful pit room (fairy key door, use start menu to fix glitches as you go, get key) to raft
 - exit dungeon left
 
-P3 boss:
-- go down entry elevator
-- go right (get key) to block stair room
-- sr,el
-- exit left x2
-- go right to elevator
-- down elevator
-- go right (middle path) to boss
-- beat boss, place gem, take atk?
-- exit left (maybe not necessary? Concerned exiting right takes you to p3 exit)
-
 kid:
 - exit, go down and left to collect kid in right of cave -- do not kill lizalfos in cave!
 
@@ -296,7 +285,7 @@ palace 5:
 
 glitch (12111)
 
-palace 4:
+palace 4 boss:
 - across raft
 - into water east of town then north to other shore
 - to bridge to maze
@@ -311,6 +300,18 @@ palace 4:
 - cast all the things (reflect and shield)
 - sit in corner and wait
 - place gem take ?? (took life in new run 6,5,6)
+
+Palace 3 boss:
+- re-enter 4, scroll right exit left
+- go down entry elevator
+- go right (get key) to block stair room
+- sr,el
+- exit left x2
+- go right to elevator
+- down elevator
+- go right (middle path) to boss
+- beat boss, place gem, take atk?
+- exit left (maybe not necessary? Concerned exiting right takes you to p3 exit)
 
 palace 6:
 - exit maze island go to south cave
