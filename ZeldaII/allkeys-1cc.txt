@@ -1,0 +1,234 @@
+100% allkeys 1 credit continue
+
+(simpol splits)
+
+P1:
+- magic jar south of start (try to get pbag)
+- get shield from town to east
+- go through dark cave
+- get coast heart container
+
+- enter P1
+- go left to key (get)
+- go right to second elevator (take attack)
+- go up elevator to right get two keys (skip level)
+- go left to elevator
+- down one level
+- go left to elevator
+- go down elevator
+- go left to candle (get, skip levels)
+- go right to elevator
+- go up
+- go right to elevator
+- go down
+- go right to boss (take attack once)
+- beat boss (horsehead)
+- take attack from gem (4-1-1)
+
+Jump Town:
+- back through (now lit) cave
+- to statue
+- to jump town
+- get jump
+
+Life Town:
+- go south through cave (skip levels)
+- go to bagu
+- go to life town
+- get life (mirror under table)
+
+Hammer Grab:
+- go through death mountain caves (take magic and life)
+- get hammer
+
+Fairy Town:
+- exit hammer cave back the way you came
+- get magic container under rock
+- go to east cave to climb coast
+- cross bridge over to graves
+- up to medicine cave (learn encounter skip here! Seems bad)
+- get medicine and back out
+- get 1-up south west of boulder
+- go to fairy/upstab town
+- get fairy/upstab
+
+P2:
+- go to heart container cave east of swamp palace get heart container
+- go to swamp palace
+- down elevator all the way
+- go right to key (get)
+- up elevator one floor
+- go left to key (get)
+- go right to elevator
+- go up one floor
+- go left to elevator
+- go down one floor
+- go left to glove (get)
+- go right to elevator (take attack)
+- go down elevator
+- go right to key (take life)
+- go left to elevator
+- go down elevator
+- go right to boss
+- beat boss (helmethead)
+- take attack (6-2-3)
+
+P3:
+- go to drop south of king's grave
+- fairy on way down and exit cave
+- enter palace
+- go right to buried key (take)
+- go right to outside key (take magic)
+- go left to elevator
+- go down
+- go right to raft (take)
+- go left to dog head room with key (take)
+- go right to elevator
+- go down
+- go right to boss
+- beat boss (rebo)
+- take attack (7-3-3)
+
+Fire Town:
+- back out of palace and through cave
+- north to raft
+- go to fire town
+- get fire (fountain)
+
+Reflect Town:
+- exit town
+- go through north cave
+- go east to bridge to maze
+- get kid (southeast path)
+- exit maze
+- get 1up
+- go west to reflect town (do encounter skips for forceds)
+- get upstab (down chimney)
+- get reflect
+
+Maze Return:
+- back to maze (again encounter skips)
+- go long way around
+- get medicine jar on the way
+
+P4:
+- enter P4
+- go right to elevator
+- go down one floor
+- go right to jump, jump all the way
+- go right to key
+- death abuse (maybe?)
+- go left
+- fall down pit to right one floor
+- go right to boots (take life)
+- go left to pit
+- fall in to right again
+- go right to key
+- death abuse (maybe?)
+- go left to dog head room with key (get)
+- go right to elevator
+- go up to top
+- go left to key (get)
+- go left to dog head-ish room with key (get)
+- go right to elevator
+- go down
+- go right to key (get)
+- death abuse (maybe?)
+- go left to elevator
+- go down
+- go right to boss
+- beat boss (wizzrobe thing)
+- take attack (8-3-4)
+
+P5:
+- exit maze by water
+- go south to water palace
+- enter water palace 
+- go right to ecokey (get, either with tech or by coming back)
+- go right to elevator
+- go down
+- go left to key on top of stack (get)
+- go left to elevator
+- go down
+- go left to elevator
+- go down one floor
+- go right to key (get)
+- go right to elevator (take magic)
+- go down
+- go left to flute (get)
+- go right to elevator
+- go up
+- go right to elevator
+- go up
+- go left to key (get)
+- back down elevator to right
+- go left to elevator before blocks
+- go up
+- go left to elevator
+- go down
+- go left to key (get)
+- go right to elevator
+- go up two floors
+- go right to boss
+- beat boss (gooma)
+- take magic and life (8-6-6)
+
+Enter 2nd fence:
+- get heart container north of palace
+- knock out river devil
+- go through fence encounters (fairy and shield for both?)
+
+hidden town:
+- go north around grind area to grind cave
+- cast fire in grind cave to make easier
+- enter hidden town
+- enter open door second screen get spell
+- get any key from phallic hut
+- talk to old lady on first screen on way out to get magic jar
+- exit back through grind cave
+- get heart container along coast
+
+P6:
+- enter P6
+- go down all the way
+- go right to rebo fight (jump over pits)
+- get cross
+- go left to first set of pits
+- fall two floors to right
+- go right to fall room
+- fall cast fairy on next floor
+- go right to boss (dragon)
+- take magic (8-7-6)
+
+Great Barrier Down:
+- go to old kasuto over bridge (cast fairy)
+- enter first door
+- get thunder
+- go east across bridge and west across bridge to north
+- prep spell
+- use encounter skips through valley of death
+- go through caves and stuff
+
+GP:
+- enter GP
+- go left to elevator
+- go down
+- go right to elevator
+- go down
+- go right through first waffle room
+- go right to elevator
+- go down
+- go right to elevator
+- go right through second waffle room (blue bird evil)
+- go right to elevator
+- go down
+- go right to elevator
+- go down all the way
+- go left to blocks to fall through
+- go right (watch big blob)
+- fall down hole
+- go right to thunderbird
+- fight thunderbird
+- go right to link
+- fight link
+- win
