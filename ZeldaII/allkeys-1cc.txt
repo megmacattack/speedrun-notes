@@ -125,7 +125,7 @@ P4:
 - fall in to right again
 - go right to key
 - death abuse (maybe?)
-- go left to dog head room with key (get)
+- go left to dog head room with key (get) -- see https://youtu.be/jRxwxIj3hh4?t=2774 for technique
 - go right to elevator
 - go up to top
 - go left to key (get)
