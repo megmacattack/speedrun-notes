@@ -87,6 +87,12 @@ boots:
 - fairy magic pixel or rapid downstab past ironknuckle
 - get boots
 
+note on safely looping P4 for magic jar at entrance:
+- after entrance is scrolled right, exit left
+- scroll right, exit left,
+- (now in P3) exit left
+- (if looping for a new jar, you can try for the jar in p3 entrance and exit p3 as described below to get a second shot)
+
 raft:
 - fairy around stalfos'
 - exit dungeon left
@@ -97,6 +103,12 @@ raft:
 - down elevator
 - go right through awful pit room (fairy key door, use start menu to fix glitches as you go, get key) to raft
 - exit dungeon left
+
+note on safely exiting P3 for magic jar at entrance:
+- after entrance scrolled right, go down elevator
+- scroll right, exit left,
+- (still in P3) exit left
+
 
 kid:
 - exit, go down and left to collect kid in right of cave -- do not kill lizalfos in cave!
