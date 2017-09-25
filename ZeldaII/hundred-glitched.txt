@@ -99,9 +99,10 @@ raft:
 (you are now in P3)
 - refill magic if possible
 - go down entry elevator
-- go right (skip key) to elevator
+- go right (take key) to elevator
 - down elevator
-- go right through awful pit room (fairy key door, use start menu to fix glitches as you go, get key) to raft
+- go right through awful pit room (use start menu to fix glitches as you go, get key) to raft room
+- kill first ironknuckle in raft room, cast fairy before exp count, take magic to refill
 - exit dungeon left
 
 note on safely exiting P3 for magic jar at entrance:
@@ -126,7 +127,7 @@ flute: (18:45)
 - prep fairy
 - cast fairy to go up shaft
 - exit right
-- get pbag, level magic (not optional)
+- death abuse in bridge room, skip pbag (leaving for next time through)
 - exit right
 - scroll right exit left
 - exit left x2
@@ -225,7 +226,7 @@ heart container:
 - enter cave, exit cave left
 - go south east of grind area for heart container along coast
 
-(squibbons in new run grinds to 4-3-3 here?)
+(grind to 4-2-2|3 here if necessary)
 
 thunder spell:
 - go west to bbridge, jump over hole at cloud
@@ -254,9 +255,7 @@ glove:
 - go right fighting ironknuckles to boss room
 - slam him in the head a bunch
 - place gem
-- squibbons takes attack but that's "bad" (4-2-2)
-(I think you were supposed to get another attack before this so it's the right thing, but you should be 5-2-2 here maybe?)
-(squibbons is 5-3-3 in new run)
+- take attack (5-2-2|3)
 
 Palace 1:
 - up-a
@@ -271,7 +270,7 @@ Palace 1:
 - go right to boss (fight things)
 - fight horshead, you know how
 - place gem
-- take attack? (5-2-2)
+- take attack (6-2-2|3)
 - go to heart container on coast
 
 palace 5:
@@ -283,16 +282,15 @@ palace 5:
 - into palace 5
 - down elevator
 - go right to ledge, cast fairy, up ledge
-- go right (fight ironknuckles) take life? (6-2-3) to elevator
+- go right (fight ironknuckles) take life (6-2-3) to elevator
 - down elevator
 - go left (fight ironknuckles get jar) to elevator
 - down elevator
-(squibbons takes detour and winds up 6-3-3 here - takes magic.)
 - go left to second elevator (magic jar in horsehead just before)
 - go up elevator
 - go right (fight ironknuckles) to boss
 - safe strats: jump into him, attack, jump back, after each ball shot
-- place gem take life, magic, magic, life (6-5-6) -- apparently should be (7-5-7)
+- place gem take attack (7-2-3)
 - up+a
 
 glitch (12111)
@@ -311,19 +309,19 @@ palace 4 boss:
 - go right to boss
 - cast all the things (reflect and shield)
 - sit in corner and wait
-- place gem take ?? (took life in new run 6,5,6)
+- place gem skip level? (may be able to take low level and not break leveling below)
+- EXIT BOSS ROOM TO LEFT OR YOU BREAK GAME (note: maybe alternate routing when revisiting 5/6 below to get back into 4 and 3 through wrong warp?)
 
 Palace 3 boss:
-- re-enter 4, scroll right exit left
-- go down entry elevator
+- down entrance elevator
 - go right (get key) to block stair room
 - sr,el
 - exit left x2
 - go right to elevator
 - down elevator
 - go right (middle path) to boss
-- beat boss, place gem, take atk?
-- exit left (maybe not necessary? Concerned exiting right takes you to p3 exit)
+- beat boss, place gem, take magic and life levels (7-5-5 or 7-6-6 maybe)
+- exit palace
 
 palace 6:
 - exit maze island go to south cave
@@ -348,7 +346,7 @@ palace 6:
 - go right to boss (careful of pits)
 - cast all the protection
 - ignore on left, fight on right
-- place gem, take attack (7-5-6)
+- place gem, take ???
 
 grand palace:
 - go to north bridge
