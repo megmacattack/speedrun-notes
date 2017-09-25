@@ -142,10 +142,6 @@ flute: (18:45)
 - scroll right exit left
 - exit palace
 
-heart container:
-- go west then north then east again to get heart container
-- exit left (warps to near river monster)
-
 fire:
 - go north to town enter
 - exit left
@@ -290,7 +286,12 @@ palace 5:
 - go up elevator
 - go right (fight ironknuckles) to boss
 - safe strats: jump into him, attack, jump back, after each ball shot
-- place gem take attack (7-2-3)
+- place gem take attack (7-2-3) - while waiting for attack leveling go get heart container:
+
+heart container:
+- go west then north then east again to get heart container
+- exit left (warps to near river monster)
+
 - up+a
 
 glitch (12111)
