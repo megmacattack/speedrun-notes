@@ -302,7 +302,7 @@ palace 4 boss:
 - to bridge to maze
 - go to palace 4 via water
 - into palace 4, red jar? at entrance if necessary (rpobably not)
-- sr,el
+- sr,el (in entrance room not down elevator)
 - el
 - sr,el
 - el
@@ -315,7 +315,7 @@ palace 4 boss:
 
 Palace 3 boss:
 - down entrance elevator
-- go right (get key) to block stair room
+- go right to block stair room
 - sr,el
 - exit left x2
 - go right to elevator
@@ -334,8 +334,9 @@ palace 6:
 - cast jump, jump after third 'real' statue (ignore despawned one on entry)
 - go right to miniboss (horse riding dood, sixth gap from right again)
 - go right to cross
-- exit palace left
-- re-enter get magic jar
+- exit left
+- exit palace (you're now in P5)
+- re-enter get magic jar if needed
 - down elevator 2 levels
 - go right to pit, fall in
 - jump right from disappearing blocks (try for ceiling walk?)
