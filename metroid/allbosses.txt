@@ -1,0 +1,208 @@
+metroid notes:
+screen horizontal:
+- left maru maru
+- exit right
+s vertical:
+- exit right
+s h:
+- don't scroll screen, kill bats, then move to manip spawn pattern
+- exit right
+s v:
+- go up to first door on right
+- exit right
+s h:
+- exit right
+s v:
+- go right, ball off platform to fall down right edge to door
+- exit right
+s h:
+I go right to missiles
+- go back left
+- exit left
+s v:
+- go up to first door on right
+- exit right
+s h:
+- go right to door
+- exit right
+s v:
+- jump over guy
+- exit right
+s h:
+- go right  to door
+- exit right
+s v:
+- exit right
+s h:
+I go right to e-tank
+- go back left
+- exit left
+s v:
+- scroll on right door to under platform
+- morph ball out of wall and fall straight down right side
+- exit left
+s h:
+- exit left
+s v:
+I get ice beam
+- exit right
+s h:
+- exit right
+s v:
+- scroll on left door, make sure you're a bit out of the wall:
+ - 14 down/ups
+ - ball up
+ - fall out of wall when ripper is out of the way
+ - tap jump then big jump until screen is all blocks
+ - tap right until screen moves a bit
+ - small jump 
+ - hold left and mash b
+s h:
+- exit right
+s v:
+- take elevator to norfair
+s v:
+- go down to door on right
+- exit right
+s h:
+- go right
+(if squid guy jumps short ridley will be wide arc pattern??)
+- exit right
+s v:
+- go down to door on left
+- scroll at door (up/down a couple of times before getting stuck to move camera a bit)
+- morph ball and fall down shaft to second door on left
+- exit left
+s h:
+- go quickly left to draw out enemy
+- exit left
+s v:
+- fall down to first door on right
+- exit right
+s v:
+- go down elevator to ridley's lair
+s v:
+- fall down and exit right
+s h:
+- exit right
+s h:
+- exit right
+s v:
+- (can farm health here)
+- go down to second door on the left
+- exit left
+s h:
+- balls are complicated look at video
+s v:
+- exit left
+s h:
+- kind of complicated room, video
+- exit left
+s ?:
+E ridley fight. Have 25 health coming in
+ - good/high pattern:
+  - ball into ridley's room to go under projectiles
+  - just go under and shoot him
+ - bad/low pattern:
+  - freeze projectiles near ground and spam from on top of them 
+ - hold b and mash select to spam shots
+- death warp to start of ridley
+(continue notes at 53:44 https://www.speedrun.com/metroid_nes/guide/lapdg)
+s v:
+- go up elevator
+s v:
+- exit left
+s v:
+- death warp to beginning of norfair
+s v:
+- go up elevator
+s v:
+- death warp to beginning of game
+s h:
+- exit right
+s v:
+- exit right
+s h:
+- get ceiling e-tank, go to far dark tile to respawn bat
+- exit left
+s v:
+- scroll right door (stop as soon as you can see yourself to avoid ripper)
+- exit right
+s v:
+- take elevator down to kraid
+s v:
+- fall down to third red door on the right with pillar in the middle
+- exit right
+s h:
+- ceiling jumper will indicate kraid pattern (good), low jump means far boomerang (bad)
+- exit right
+s v:
+- fall down to second door on left
+- exit left
+
+- missile things in entrance
+- ball across spawner
+- freeze things
+- exit left
+s v:
+- exit left
+s ?:
+B kraid
+- push into him and mash b and select, freeze middle needle if possible
+- to get energy tank early in kraid fight:
+ - freeze boomerangs
+ - wait for spiked 3-3-2
+ - fall down as a ball
+ - press up part way down
+ - shoot odd block
+ - jump immediately after shoot
+ - repeat wait above then drop down and in as ball
+I get e-tank
+- exit right
+s v:
+- exit right
+s h:
+- death abuse
+s v:
+- take elevator out of kraid
+s v:
+- exit left
+s v:
+- go up to top of screen
+- exit right
+s h:
+- exit right
+s v:
+- go up to very top, two doors to the left
+- exit left
+s h:
+- freeze all the things
+- exit left
+s v:
+- shoot statues
+- cross bridge
+- exit left
+s v:
+- go down elevator to tourian
+s v:
+- fall down and draw in metroids, hold up and freeze them, get health
+- repeat
+- go down to door
+- exit right
+s h:
+- exit right, mostly avoid metroids
+s v:
+- be a ball, fall through room, freeze metroids on the way
+- exit left at bottom
+s h:
+- jump over first metroid and freeze first three, kill in group
+- walk under first metroid in next group, freeze up the two
+- grind on last two metroids if needed
+- exit left
+s h:
+- destroy zebetites (8 missiles each)
+- kill mother brain (33 missiles)
+- exit left
+s v:
+- escape
+fin
