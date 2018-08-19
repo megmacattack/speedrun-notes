@@ -202,7 +202,7 @@ spell spell:
 - go right to second open door and enter (maybe cast shield?)
 - get spell
 - exit house left
-- exit left
+- exit town right (or sr,el?)
 
 any key:
 - (back in normal town) exit right
