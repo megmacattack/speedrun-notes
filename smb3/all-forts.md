@@ -64,6 +64,7 @@ W4
 - 4-2
 - 4-3
 - 4-fort1
+    - saves progress
 - 4-4
 - 4-hammerbros
     - mitch gets both cloud and pwing from them, not sure how necessary they are
@@ -76,13 +77,16 @@ W5
 - 5-1
 - 5-2
 - 5-fort1
+    - saves progress
 - 5-hammerbro
     - mitch gets pwing
 - 5-tower
+    - progress NOT saved
 - 5-4
 - 5-5
 - 5-7
 - 5-fort2
+    - progress saved (other than tower re-do)
 - 5-8
 - (cloud)5-9
 - 5-airship
@@ -93,17 +97,21 @@ W6
 - 6-hammerbros
     - for hammer item
 - 6-fort1
+    - no progress to save really (hammer break sticks already)
 - 6-4
-    - use the musicbox if necessary to avoid hammers, but mitch comes back to them later so this may just be optimization or based on knowing which one he needs
 - 6-5
+    - this level is evil and one of the most important to learn the tricks to and practice probably ugh
+    - use the musicbox if necessary to avoid hammers, but mitch comes back to them later so this may just be optimization or based on knowing which one he needs
 - use hammer to get to...
 - 6-fort2
+    - saves progress
 - 6-hammers
     - to get to cloud
 - 6-8
 - 6-9
-    - wall clip to save a lot of time
+    - wall jump to save a lot of time (visual example: https://www.youtube.com/watch?v=touZzZIRMrY -- todo: find better one)
 - 6-fort3
+    - does not save progress
 - 6-airship
 
 W7
@@ -111,7 +119,7 @@ W7
 - 7-1
     - wall clip to save a lot of time
 - 7-2
-    - mitch uses star
+    - use star to get over gap you're supposed to fill in with music blocks (todo: link to video)
 - 7-3
 - 7-4
     - cloud over
